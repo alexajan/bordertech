@@ -1,0 +1,149 @@
+{
+    "esp": "BorderTech",
+    "children": [{
+        "esp": "El modelo conceptual: la relación entre el sector privado y público",
+        "eng": "The Conceptual Model: The relationship between the private and public circle",
+        "children": [{
+            "esp": "Precedentes",
+            "eng": "Precedents",
+            "children": [{
+                "esp": "La puerta giratoria",
+                "eng": "The Revolving Door",
+                "size": 10
+            }, {
+                "esp": "Subcontratista <=> Lobby",
+                "eng": "Subcontractor <=> Lobby",
+                "size": 10
+            }, {
+                "esp": "Rescates del gobierno",
+                "eng": "Government Bailouts",
+                "size": 10
+            }, {
+                "esp": "Las leyes de privacidad",
+                "eng": "Privacy Laws",
+                "size": 10
+            }, {
+                "esp": "¿Cómo caracterizas la relación entre los dos sectores?",
+                "eng": "How do you characterize the relationship between the two sectors?",
+                "size": 10
+            }]
+        }, {
+            "esp": "Conflicto de valores",
+            "eng": "Conflicting Values",
+            "children": [{
+                "esp": "Público",
+                "eng": "Public",
+                "children": [{
+                    "esp": "Responsabilidad social",
+                    "eng": "Social Responsibility",
+                    "size": 10
+                }, {
+                    "esp": "El beneficio",
+                    "eng": "The Beneficiary",
+                    "size": 10
+                }]
+            }, {
+                "esp": "Privado",
+                "eng": "Private",
+                "children": [{
+                    "esp": "Protección",
+                    "eng": "Protection",
+                    "size": 10
+                }, {
+                    "esp": "Represión",
+                    "eng": "Repression",
+                    "size": 10
+                }]
+            }, {
+                "esp":"¿Cómo equilibran los sectores estos valores que a menudo están en oposición?",
+                "eng": "How do the two sectors balance their opposing values?",
+                "size": 10
+            }]
+        }, {
+            "esp": "Depositantes",
+            "eng": "Stakeholders",
+            "children": [{
+                "esp": "Público",
+                "eng": "Public",
+                "children": [{
+                    "esp": "¿Cuáles derechos/protecciones se ofrecen a los ciudadanos/las personas que viven en el territorio/los criminales (incluye los que cruzan la frontera ilegalmente)/los refugios/los inmigrantes legales/los inmigrantes indocumentados?",
+                    "eng": "What rights does the state afford to citizens/inhabitants/refugees/undocumented immigrants?",
+                    "size": 10
+                }, {
+                    "esp": "Privado",
+                    "eng": "Private",
+                    "children": [{
+                        "esp": "¿A quién debe ser responsable la empresa: accionistas (shareholders), los clientes, y/o los inversores, etc?",
+                        "eng": "To whom is a private company responsible?",
+                        "size": 10
+                    }]
+                }]
+            }]
+        }]
+    }, {
+        "esp": "Los métodos: el (ab)uso de la tecnología",
+        "eng": "The Methods: The (Ab)use of the Technology",
+        "children": [{
+            "esp": "La ciencia de los datos: Palantir",
+            "eng": "Data Science: Palantir",
+            "children": [{
+                "esp": "Bloomberg",
+                "eng": "Bloomberg",
+                "size": 30,
+                "title": "BLOOMBERG",
+                "esp_desc": "A veces, esta tecnología crea problemas que no existirían de otra manera. A este fenómeno se llama vigilancia policial predictiva porque la policía se involucra antes de un crimen. Manuel Rios, un habitante de una comunidad que realiza vigilancia policial predictiva, tiene varios amigos en una pandilla local, llamada Eastside 18, el afiliado local de la pandilla de 18th Street, pero él nunca se unió. En 2016, Rios estaba sentado en un coche con un amigo de Eastside 18, cuando la policía los detuvo. Aunque su amigo huyó de la policía, él no partió ya que no tenía razón para huir. La policía regresó para esposarlo. Tomaron su foto y dijeron, \"Bienvenido a la base de datos de pandillas!\" Desde entonces, la policía le ha detenido más de una docena de veces. Según Mariella Saba, una vecina y organizadora de la comunidad, \"la policía, que sigue ciegamente al software de Palantir, lo empuja a unirse con sus amigos de pandilla, no a separarse de ellos...Cuando las comunidades enteras como el este de Los Ángeles son buscadas algorítmicamente para sospechosos de crímenes futuros, los datos son destino.\" Esta tecnología amplifica los problemas sistémicos. Cuando la policía no deja de fastidiar a hombres como Rios en un contexto de pandilla, interiorizarán la perspectiva que ellos son criminales. En estos casos, puede que la información incorrecta cause más problemas de los que resuelva. Las tecnologías biométricas y de Palantir contribuyen a un fenómeno que la socióloga Sarah Brayne llama \"la red de vigilancia secundaria: la red de quienes están emparentados, son amigos, o quienes duermen con quien.\"",
+                "eng_desc": "Sometimes, the technologies create problems that did not previously exist. This phenomenon is called predictive policing because the police intervene before a suspected crime occurs. Manuel Rios, an inhabitant of a community that has implemented predictive policing, has friends in the local gang, Eastside 18, a local affiliate of the 18th street gang, one of the largest criminal syndicates in Southern California, but he never joined. In 2016, Rios was sitting in a car with an Eastside 18 friend, when the police pulled up to them. Even though his friend immediately fled from the police, he did not because he did not have a reason to run. The police returned to arrest him. They took his photo and said, \"Welcome to the gang database!\" Since then, the police have stopped him more than a dozen times. According to Mariella Saba, a neighbor and community organizer, \"the police, on autopilot with Palantir, are driving Rios toward his gang friends, not away from them...When whole communities like East L.A. are algorithmically scraped for pre-crime suspects, data is destiny.\" When people are continually harassed by the police in a gang context, they internalize the perspective that they are criminals. Rather than creating safer communities, predictive policing is exacerbating systemic problems, causing more problems than it solves. Biometric technologies and software like Palantir’s contribute to a phenomenon that sociologist Sarah Brayne calls \"the secondary surveillance network: the web of who is related to, friends with, or sleeping with whom.\"",
+                "quote": "\"When whole communities like East L.A. are algorithmically scraped for pre-crime suspects, data is destiny\"",
+                "url": "https://www.bloomberg.com/features/2018-palantir-peter-thiel/"
+            }, {
+                "esp": "Vice",
+                "eng": "Vice",
+                "size": 10,
+                "title": "VICE",
+                "desc": "Vice ex",
+                "url": "https://www.vice.com/en_us/article/9kx4z8/revealed-this-is-palantirs-top-secret-user-manual-for-cops"
+            }]
+        }, {
+            "esp": "La vigilancia biométrica: Amazon",
+            "eng": "Biometric Surveillance: Amazon",
+            "children": [{
+                "esp": "The New York Times",
+                "eng": "The New York Times",
+                "url": "https://www.nytimes.com/2019/01/24/technology/amazon-facial-technology-study.html",
+                "size": 10
+            }, {
+                "esp": "Washington Post",
+                "eng": "Washington Post",
+                "size": 30,
+                "title": "WASHINGTON POST",
+                "esp_desc": "Un estudio reciente del Media Lab de MIT se enfocó en las tecnologías de Amazon, una de las cuales se llama Rekognition y se vende a la policía y la CBP. Cuando los investigadores probaron el algoritmo de análisis facial de Rekognition, el algoritmo tuvo una tasa de fracaso de 19% para las mujeres de tez clara y 31% para las mujeres de tez oscura. Amazon respondió que el algoritmo de reconocimiento facial funcionó de manera tan diferente que el de análisis facial que los resultados no podrían indicar una verdadera correlación entre los rendimientos de cada algoritmo. Previamente, se habían utilizado otras explicaciones como en un estudio de la Unión Estadounidense de Libertades Civiles en 2018. En este estudio, el software emparejó por error a 28 miembros del congreso estadounidense con fotos policiales de detenidos. Amazon aseguró que el algoritmo fue entrenado incorrectamente. En realidad, varias investigaciones y compañías como Microsoft han identificado que el problema radica en los datos de entrenamiento. Existe una relación entre el rendimiento del algoritmo y los datos de entrenamiento. Un ejemplo es que los algoritmos desarrollados en países asiáticos tuvieron una tasa de fracaso entre las caras blancas y asiáticas más baja que la de los algoritmos estadounidenses. En cualquier caso, Amazon ha sido reacio a probar el algoritmo, en el caso del estudio NIST, y reacio a contestar y abordar las preocupaciones del gobierno.",
+                "eng_desc": "A recent study from the MIT Media Lab focused on Amazon’s technologies, specifically one called Rekognition which is sold to the police and the CBP. When researchers tested Rekognition’s facial analysis algorithm, it had a failure rate of 19% for white women and 31% for black women. Amazon responded that the facial recognition algorithm functioned completely differently than the facial analysis algorithm, so the accuracy of the algorithms used by the CBP could not be extrapolated from these results. Previously, the company had attributed its algorithm's poor performance to other reasons in response to a study conducted by the American Civil Liberties Union (ACLU) in 2018. In this study, the software wrongly matched 28 members of the United States Congress to police mugshots. Amazon claimed that the algorithm was trained with an incorrect confidence threshold. However, various studies and companies like Microsoft have identified that the problem lies in the training data on which the model was created. More specifically, researchers proved that there was a relationship between the performance of the algorithm and the training data. For example, algorithms developed in Asian countries had a smaller difference in failure rate between white and Asian faces than algorithms developed in the United States. In either case, Amazon has been reluctant to test their algorithms in NIST’s study and even more reluctant to address government and third-party concerns.",
+                "url": "https://www.washingtonpost.com/technology/2019/12/19/federal-study-confirms-racial-bias-many-facial-recognition-systems-casts-doubt-their-expanding-use/"
+            }, {
+                "esp": "Verge",
+                "eng": "Verge",
+                "size": 10
+            }]
+        }]
+    }, {
+        "esp": "Las consequencias: la violación de los derechos humanos",
+        "eng": "The Consequences: Human Rights Violation",
+        "children": [{
+            "esp": "Plyer v. Doe",
+            "eng": "Plyer v. Doe",
+            "size": 10
+        }, {
+            "esp": "La Decimocuarta Enmienda",
+            "eng": "The 14th Amendment",
+            "size": 30,
+            "title": "14",
+            "esp_desc": "En el discurso político de hoy en día, los autoridades debaten si esta distinción entre los ciudadanos y las personas sin ciudadanía en los Estados Unidos justifica el tratamiento diferente. En particular, muchos conservadores no piensan que los inmigrantes están protegidos por la Constitución. Sin embargo, los resultados de juicios estadounidenses probaron que muchas enmiendas de la Constitución, aunque no todas, protegen los derechos de los inmigrantes indocumentados. La frase clave de la Constitución que protege los derechos está en la Decimocuarta Enmienda: \"Ningún Estado podrá crear o implementar leyes que limiten los privilegios o inmunidades de los ciudadanos de los Estados Unidos; tampoco podrá ningún Estado privar a una persona de su vida, libertad, o propiedad, sin un debido proceso legal; ni negar a una persona dentro de su jurisdicción la protección legal igualitaria.\" En general se utiliza la palabra \"ciudadanos\" cuando la Enmienda delinea los derechos de los ciudadanos estadounidenses, mientras la palabra \"persona\" cuando los derechos protegen a todas las personas presentes en los Estados Unidos. Esta definición se ratificó en el juicio de Plyer vs. Doe (1982) que protegen a los derechos de personas sin ciudadanía, estén presentes legalmente o no.",
+            "eng_desc": "In the current political discourse, whether the distinction between citizens and non-citizens warrants different treatment is controversial. Specifically, many social conservatives do not think that immigrants are protected by the United States Constitution. However, the results of multiple court cases have proven that most Amendments, though not all, protect the rights of undocumented immigrants. The key phrase in the Constitution that upholds these rights lies in the 14th Amendment: \"No state shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any state deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.\" At a high level, the word \"citizens\" is used when the Amendment differentiates between the rights of United States citizens and non-citizens, while the word \"person\" is used when the rights of all people present in the United States are protected. This delineation was ratified in the case Plyer v. Doe (1982) that the law protects the rights of non-citizens, whether or not they are legally present in the United States.",
+            "url": "https://www.britannica.com/topic/Fourteenth-Amendment"
+        }, {
+            "esp": "La Oficina del Alto Comisionado para los Derechos Humanos",
+            "eng": "Office of the United Nations High Commissioner for Human Rights",
+            "size": 10
+        }]
+    }]
+}
